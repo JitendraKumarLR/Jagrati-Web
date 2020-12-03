@@ -79,7 +79,7 @@ h2{
 nav{
 	position: sticky;
 	background-color: orange;
-	width:100%;
+	/* width:100%; */
 	top: 0;
 }
 
@@ -101,7 +101,7 @@ nav{
 }
 .nav-button-close{
 	display: none;
-	float: right;
+	float: left;
 	margin: 5px 0px 5px 5px;
 }
 
@@ -160,7 +160,7 @@ nav{
 	overflow: hidden;
 	transition: 400ms;
 }
-.navbar ul{
+.navbar2 ul{
 	list-style: none;
 	padding: 0;
 	margin: 0;
